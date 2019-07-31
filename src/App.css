@@ -31,3 +31,22 @@
     transform: rotate(360deg);
   }
 }
+.bg{
+  height: 100%;
+  width: 100%;
+}
+
+.bgImage{
+  background: url("./assets/images/bg.png") no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+}

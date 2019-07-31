@@ -1,0 +1,14 @@
+.header{
+    height: 98px;
+    width: 100%;
+    background-color: #8091f6;
+    text-align: center;
+    line-height: 98px;
+    color: white;
+    font-size: 32px;
+    position: relative;
+}
+.back{
+    position: absolute;
+    left: 20px;
+}
